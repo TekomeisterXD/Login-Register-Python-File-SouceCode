@@ -9,4 +9,5 @@
                             fixleyerek kullana bilirsiniz
                       NOT:Python en son ana sürümü yüklü olması lazım !
                               https://www.python.org/downloads/
+                                                                       KODLAR TAMAMEN BANA AİTTİR!
                                               
